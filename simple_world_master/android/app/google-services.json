@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "885737535887",
+    "project_id": "facebookgnp-32adc",
+    "storage_bucket": "facebookgnp-32adc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885737535887:android:ecd035353d1762e87fb3fa",
+        "android_client_info": {
+          "package_name": "com.facebook.simpleworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885737535887-kjasmp4jev66cmjltg6jtls39dm4g5tj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.facebook.simpleworld",
+            "certificate_hash": "8bbf238b295a26a956ebf8dbbb588c9a82e1f4ee"
+          }
+        },
+        {
+          "client_id": "885737535887-ivtvj4g3d5mha1gubga7n3rk1ej94659.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2_x1Qe8RCdpTaHhkguDfSjaAtfjvto9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885737535887-ivtvj4g3d5mha1gubga7n3rk1ej94659.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

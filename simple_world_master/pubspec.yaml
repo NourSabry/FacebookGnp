@@ -1,0 +1,105 @@
+name: simpleworld
+description: A new Flutter project.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.14.2+9
+
+environment:
+  sdk: ">=2.14.4 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: ^2.2.0
+  image_picker: ^0.8.4+4
+  firebase_storage: ^10.1.0
+  firebase_auth: ^1.2.0
+  google_sign_in: ^5.0.4
+  uuid: ^3.0.4
+  image: ^3.0.2
+  cupertino_icons: ^1.0.4
+  path_provider: ^2.0.2
+  firebase_messaging: ^11.1.0
+  flutter_svg: ^0.22.0
+  cached_network_image: ^3.0.0
+  timeago: ^3.0.2
+  material_design_icons_flutter: ^5.0.5955-rc.1
+  firebase_core: ^1.10.0
+  font_awesome_flutter: ^9.0.0
+  flutter_svg_provider: ^0.1.9
+  fluttertoast: ^8.0.7
+  photo_view: ^0.12.0
+  container_tab_indicator: ^0.3.0
+  nb_utils: ^4.4.1
+  google_fonts: ^2.0.0
+  provider: ^5.0.0
+  story_view: ^0.13.1
+  flutter_staggered_grid_view: ^0.4.0
+  share: ^2.0.4
+  url_launcher: ^6.0.10
+  flutter_linkify: ^5.0.2
+  simple_animations: ^3.1.1
+  ionicons: ^0.1.2
+  link_preview_generator: ^1.1.0
+  another_flushbar: ^1.10.20
+  fluttericon: ^2.0.0
+  paginate_firestore: ^1.0.2
+  flutter_reaction_button: ^2.0.0+1
+  file_picker: ^4.1.6
+  visibility_detector: ^0.2.0
+  filesize: ^2.0.1
+  easy_pdf_viewer: ^1.0.1
+  adaptive_theme: ^2.3.0
+  video_player: ^2.2.5
+  flick_video_player: ^0.3.1
+  string_validator: ^0.3.0
+  google_mobile_ads: ^0.13.6
+  equatable: ^2.0.3
+  json_annotation: ^4.4.0
+  badges: ^2.0.2
+  iconly: ^1.0.1
+  video_compress: ^3.1.0
+ 
+ 
+
+ 
+
+ 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+  flutter_launcher_icons: ^0.9.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+ 
+
+  assets:
+    - assets/icon.png
+    - assets/images/
+    
+    
+
+
+    
+
